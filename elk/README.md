@@ -1,5 +1,6 @@
 ## To start the ELK run below command
 ```
+cd elk
 docker-compose up
 ```
 
